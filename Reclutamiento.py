@@ -34,7 +34,7 @@ def imprimir_cuadro(texto):
     st.text(borde)
 
 # Texto a imprimir en el cuadro
-texto = "Programa especial de calificación de candidatos\n \n Elaborado por: Marketing A3\n\nVersión: 1.0"
+texto = "Solución con AI de pre-calificación de candidatos\n Elaborado por: Marketing A3\nVersión: 1.0"
 
 # Llama a la función para imprimir el cuadro
 imprimir_cuadro(texto)
